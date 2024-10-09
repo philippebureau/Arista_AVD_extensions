@@ -9,7 +9,7 @@ replace eos_cli_config_gen key "system" with "custom_system"
 
 ## example
 
-
+```
 custom_templates:
   - system_ACL_issue4077.j2
 
@@ -22,3 +22,4 @@ custom_system:
         # vrf: MGMT
       - acl_name: ACL_TEST_COPP
         vrf: VRF3
+```
