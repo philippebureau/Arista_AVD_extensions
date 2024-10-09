@@ -19,7 +19,6 @@ custom_system:
       - acl_name: ACL_TEST_COPP
         vrf: MGMT
       - acl_name: ACL_TEST_COPP
-        # vrf: MGMT
       - acl_name: ACL_TEST_COPP
         vrf: VRF3
 ```
