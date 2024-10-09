@@ -9,7 +9,7 @@ replace eos_cli_config_gen key "system" with "custom_system"
 
 ## example
 
-```
+```yaml
 custom_templates:
   - system_ACL_issue4077.j2
 
