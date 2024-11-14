@@ -22,4 +22,4 @@ Documentation: https://avd.arista.com/4.10/roles/eos_designs/docs/role-configura
 ![](./media/2.png)
 
 ## Note
-Tested with AVD 4.x
+Tested with AVD 4.x and 5.x
